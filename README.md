@@ -14,7 +14,7 @@ Intially the Citibike data was changed so that trip duration could be represente
 
 The remaining analysis was done in Tableau where the visualizations to follow were created. The Tableau Public link can be found below:
 
-[Link to Dashboard]()
+[Link to Dashboard](https://public.tableau.com/app/profile/claudia.martin7041/viz/TableauChallenge_16602781550120/NYCCitibikeAnalysis?publish=yes)
 
 ## Results
 

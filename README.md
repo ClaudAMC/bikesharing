@@ -65,3 +65,8 @@ This image shows the break down of trips started by customers compared to subscr
 
 ## Summary
 
+Overall, we can see from the analysis that appealing to male commuters in Des Moines may be essential to get the program up and running. Past that stage investing in marketing towards female commuters and casual customers during weekend leasure hours could prove fruitful. Two additonal visualizations that could be created for further analysis are:
+
+1. User Trips by Birthyear. Using these parameters we could get information on the age of users taking the most trips. This could further inform us on the age of the population that would be more likely to use this service in Des Moines.
+
+2. Checkout times by birthyear. Using these parameters we could further find out which users are most active during commuter times. It is possible that unlike what was assumed above the people using the service are young students as opposed to workers. This could further inform us on the types of populations we want to attract in Des Moines.
